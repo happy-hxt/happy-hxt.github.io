@@ -16,7 +16,7 @@
 title: hxt
 description: > # this means to ignore newlines until "baseurl:"
   相关网站 <a href="http://lixuehe.github.io">李雪鹤</a> 
-baseurl: "/hxt"
+baseurl: ""
 url: "https://happy-hxt.github.io"
 permalink: /:year/:month/:day/:title
 repository: happy-hxt/hxt
