@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "类别"
+title: "Categories"
 css: ["categories.css"]
 ---
 {% include categories.html %}
