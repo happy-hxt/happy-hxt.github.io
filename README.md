@@ -1,13 +1,13 @@
 # MatJek
 
-A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.
+相关博客[Material](https://lixuehe.github.io/)[李雪鹤](http://materializecss.com/)
 
 ## Features
 
 * Google Analytics
 * Disqus
 * [GitHub project page](https://shawnteoh.github.io/matjek/projects/)
-* [Tags](https://shawnteoh.github.io/matjek/tags/) and [Categories](https://shawnteoh.github.io/matjek/categories/)
+* [Tags](https://happy-hxt.github.io/hxt/tags/) and [Categories](https://happy-hxt.github.io/hxt/categories/)
 * Modular CSS and JS includes ([example](https://github.com/ShawnTeoh/matjek/blob/gh-pages/projects.md/))
 * [Fancy "About" page](https://shawnteoh.github.io/matjek/about)
 
