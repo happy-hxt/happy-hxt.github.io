@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu Docker安装及使用"
+title:  "UbuntuDocker安装及使用"
 date:   2019-10-23 11:25:00 +0800
 categories: 笔记
 tags: Docker
